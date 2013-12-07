@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyToDoApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="item_text">Enter new item...</string>
+    <string name="button_label">Add</string>
+    <string name="title_activity_edit">EditActivity</string>
+    <string name="edit_label">Save</string>
+
+</resources>
